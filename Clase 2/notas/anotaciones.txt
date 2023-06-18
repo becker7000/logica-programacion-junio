@@ -1,0 +1,96 @@
+
+Perimetro de un círculo:
+    perimetro = diametro*pi;
+
+Linealizar es el hecho de transformar una 
+formula con notación matemática a código.
+
+Break, regresamos 10:50 AM
+
+&& <- AND
+|| <- OR
+PSeInt:
+& <- OR
+| <- AND
+
+---
+Suma de Gauss:
+
+Sumar del 1 al: 5
+
+suma = 1+2+3+4+5 = 15
+
+La suma del 1 al 10 es: 55
+
+Fantasmitas del código:
+
+MAX=5
+sum=0
+i=1
+
+inicia el interador 'PARA'
+---
+sum = sum + i = 0 + 1 = 1
+i=2
+---
+sum = sum + i = 1 + 2 = 3
+i=3
+---
+sum = sum + i = 3 + 3 = 6
+i=4
+---
+sum = sum + i = 6 + 4 = 10
+i=5
+---
+sum = sum + i  = 10 + 5 = 15
+i=6
+termina el interador 'PARA'
+
+Lenguaje base C:
+C++
+C#
+Java 
+Matlab
+JavaScript
+Go
+PHP
+
+Lenguajes que no son base C:
+Python
+PyScript
+Switf
+Kotlin
+Scala
+Groovy
+TypeScript
+
+Tecnologías Java:
+1. Java Stardard Edition.
+2. Java Enterprise Edition se renombra a Jakarta Enterprise Editio (Eclipse foundation).
+3. Java Micro Edition (Electrodomesticos)
+4. Java Card (NFID)
+
+JAVA JDK 17 LTS(long-term support)
+IDE's: (Integrated Development Enviroment).
+	1. NetBeans
+    	2. Eclipse
+	3. IntelliJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
